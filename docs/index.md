@@ -7,12 +7,6 @@
 
 Version 3.3.x
 
-Version 3.4 
-
-Version 3.5
-
-Version 3.6
-
  
 
 ## MySQL Manuals 
