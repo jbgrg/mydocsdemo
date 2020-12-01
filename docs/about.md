@@ -1,4 +1,4 @@
-# Coma spectare Achivam pereat Exigit demissaque amnis
+# Coma spectare Achivam pereat Exigit demissaque amnis.
 
 ## Pedum in in suos dextra si Terram
 
